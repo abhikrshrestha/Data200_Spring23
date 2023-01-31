@@ -59,3 +59,6 @@ Homework           |   25   |    25.0%   |
 * [QuantEcon](https://quantecon.org)
 * [Live question link](https://itempool.com/ernbilen/live)
 * [Eval link](https://dickinson.campuslabs.com/courseeval)
+
+New syllabus starts from here--------------
+
